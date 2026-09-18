@@ -1,3 +1,4 @@
 export { default as Home } from "./Home";
-import { ConsultaCard } from "../components";
-export { default as Admin } from "./Admin";
+export { default as Login } from "./Login";
+export { default as Cadastro } from "./Cadastro";
+export { default as Agendar } from "./Agendar";
